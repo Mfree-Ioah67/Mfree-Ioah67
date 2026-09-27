@@ -1,27 +1,42 @@
-# Hải Nguyên
+```
+██╗  ██╗ █████╗ ██╗    ███╗   ██╗ ██████╗ ██╗   ██╗██╗   ██╗███████╗███╗   ██╗
+██║  ██║██╔══██╗██║    ████╗  ██║██╔════╝ ██║   ██║╚██╗ ██╔╝██╔════╝████╗  ██║
+███████║███████║██║    ██╔██╗ ██║██║  ███╗██║   ██║ ╚████╔╝ █████╗  ██╔██╗ ██║
+██╔══██║██╔══██║██║    ██║╚██╗██║██║   ██║██║   ██║  ╚██╔╝  ██╔══╝  ██║╚██╗██║
+██║  ██║██║  ██║██║    ██║ ╚████║╚██████╔╝╚██████╔╝   ██║   ███████╗██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═══╝
+              offensive security · red team · Ho Chi Minh City
+```
 
-Information Security undergraduate at FPT University, Ho Chi Minh City. Final year.
-Heading for red team work.
+```console
+$ whoami
+Hải Nguyên — Information Security undergraduate
+FPT University, Ho Chi Minh City · final year
 
-## About
+$ cat objective
+Red team. I work the offensive side — web applications, APIs, file formats,
+ciphers — looking for the point where an assumption stops holding.
 
-I work on the offensive side — web applications, APIs, file formats, ciphers — looking
-for the point where an assumption stops holding.
+$ ls -1 focus/
+web-application-and-api-testing
+authorization-and-access-control-flaws
+recon-and-osint
+reverse-engineering
+applied-cryptography
 
-## Focus
+$ cat toolbox
+python    linux    git    burp-suite
 
-Web application and API testing · authorization and access-control flaws · reconnaissance
-and OSINT · reverse engineering · applied cryptography
+$ ./status --now
+[+] finishing BSc Information Security — FPT University HCMC
+[+] working toward security certifications
+[!] OPEN TO: offensive security / red team internship
 
-**Tools** — Python, Linux, Git, Burp Suite
+$ ./contact --list
+mail      phamhoanghainguyen12a12dt@gmail.com
+linkedin  phạm-hoàng-hải-nguyên
+```
 
-## Currently
-
-- Finishing my Information Security degree at FPT University HCMC
-- **Looking for an offensive security / red team internship**
-- Working toward security certifications (progress on LinkedIn)
-
-## Contact
-
-- Email — phamhoanghainguyen12a12dt@gmail.com
-- LinkedIn — [phạm-hoàng-hải-nguyên](https://www.linkedin.com/in/ph%E1%BA%A1m-ho%C3%A0ng-h%E1%BA%A3i-nguy%C3%AAn-5bba9532a)
+<!-- clickable versions of the above, since links do not work inside a code block -->
+[**Email**](mailto:phamhoanghainguyen12a12dt@gmail.com) ·
+[**LinkedIn**](https://www.linkedin.com/in/ph%E1%BA%A1m-ho%C3%A0ng-h%E1%BA%A3i-nguy%C3%AAn-5bba9532a)
